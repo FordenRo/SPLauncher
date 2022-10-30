@@ -1,5 +1,16 @@
+Changelog:
+
 (30.10.22)
-v0.1.2-alpha (Latest):
+v0.2.0-alpha (Latest):
+- Added background image
+- Now window size can't be changed
+- Added launcher version label
+- Added game version label
+- Added game name label
+- Removed Minimize/Maximize box
+
+(30.10.22)
+v0.1.2-alpha:
 - Fixed not interactable button after installing game
 
 (28.10.22)
